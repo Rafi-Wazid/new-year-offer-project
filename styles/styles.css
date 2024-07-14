@@ -1,0 +1,23 @@
+
+/* shared styles */
+
+
+h4 , h1 {
+    color: white;
+}
+
+
+
+/* first section styles */
+
+
+.banner-section{
+    width: 1320px;
+    height: 600px;
+    background-image: url(../images/Banner\ Image.png);
+}
+
+.first-section{
+    text-align: center;
+    padding: 177px 344px;
+}
